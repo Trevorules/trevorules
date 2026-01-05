@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm currently working on the SPLAT, OSPLAT models of the Pearson Lab.
+
+
 <!--
 **Trevorules/trevorules** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
