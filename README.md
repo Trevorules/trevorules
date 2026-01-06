@@ -2,7 +2,7 @@
 
 I'm a PhD candidate in Computational Neuroscience / Neural Engineering at Duke University,
 
-My primary research focuses on probabilistic modeling and inference for neural signals. Much of my the work is still in active development so stay tuned for when it is ready to be open to the public!
+My primary research focuses on probabilistic modeling and inference for neural signals. Much of my work is still in active development so stay tuned for when it is ready to be open to the public!
 
 ## 🧠 Research Interests
 - Brain–computer interfaces (BCI)
